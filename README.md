@@ -8,32 +8,33 @@ This project details how I built an Active Directory home lab environment using 
 
 **Active Directory**
 - For managing domain services and creating user accounts in a simulated business environment.
+
 **PowerShell**
 - To automate the creation of over 1,000 user accounts in Active Directory.
+
 **CMD**
 - For additional system commands and configurations during the lab setup.
 
 ## Environments Deployed
 
-**VMware**
+**VMware** < br / >
 Virtualization platform for hosting the lab environment.
 
-**Microsoft Server 2019** 
-
+**Microsoft Server 2019** < br / > 
 Operating system for running Active Directory and managing the domain.
 
-**Windows 10 (21H2)** 
+**Windows 10 (21H2)** < br / > 
 Client machine used for testing domain connectivity and user logins.
 
 ## Resources and Download Links
 
-**VMware Workstation Player**
+**VMware Workstation Player** < br / >
 [VMware Workstation Player Evaluation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 
-**Microsoft Server 2019 ISO** 
+**Microsoft Server 2019 ISO** < br / >
 [Download Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
 
-**Windows 10 ISO** 
+**Windows 10 ISO** < br / >
 [Download Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10)
 
 
